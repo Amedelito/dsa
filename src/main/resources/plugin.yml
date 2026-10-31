@@ -1,0 +1,7 @@
+name: ClanRadar
+version: '1.0'
+main: me.amets.clanradar.ClanRadarPlugin
+api-version: '1.21'
+depend:
+  - Vidas5
+description: Radar de compañeros de clan sin necesidad de mods en el cliente
